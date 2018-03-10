@@ -1,4 +1,4 @@
-ï»¿# programming-fundamentals
+# programming-fundamentals
 Programming Fundamentals Repository
 
 1. Debit Card Number  
@@ -9,41 +9,26 @@ Examples
 
  
 
-Input 
+Input/Output 
+12
 
- 
+433
 
-Output 
+1
 
- 
-
-12 
-
-433 
-
-1 
-
-5331 
-
- 
+5331
 
 0012 0433 0001 5331 
 
- 
+9182
 
-9182 
+4221
 
-4221 
+12
 
-12 
-
-3 
-
- 
+3
 
 9182 4221 0012 0003 
-
- 
 
 812 
 
@@ -51,15 +36,13 @@ Output
 
 123 
 
-22 
-
- 
+22
 
 0812 0321 0123 0022 
 
 
 
-### Problem 3.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+### Problem 3.               
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
@@ -82,7 +65,7 @@ mile == 1.60934 kilometers**
 
  
 
-**Â **
+** **
 
  
 
@@ -94,7 +77,7 @@ mile == 1.60934 kilometers**
 
  
 
-**Â **
+** **
 
  
 
