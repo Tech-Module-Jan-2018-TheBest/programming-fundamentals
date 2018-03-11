@@ -36,20 +36,24 @@ Write a program, which calculates a rectangle’s area, based on its width and h
 
 Examples
 
-| **Input** | **Output** |
-| --- | --- |
-|  2  | 14.00 |
-|  7  |     |
-
-| **Input** | **Output** |
-| --- | --- |
-|  7  | 56.00 |
-|  8  |     |
-
-| **Input** | **Output** |
-| --- | --- |
-|  12.33  | 61.65 |
-|  5  |     |
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Insert</th>
+    <th class="tg-yw4l">Output</th>
+  </tr>
+  <tr>
+    <td class="tg-jogk">2<br>7</td>
+    <td class="tg-yw4l">14.00</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">7<br>8</td>
+    <td class="tg-yw4l">56.00</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">12.33<br>5</td>
+    <td class="tg-yw4l">61.65</td>
+  </tr>
+</table>
 
 ## Problem 3.               
 Miles to Kilometers
