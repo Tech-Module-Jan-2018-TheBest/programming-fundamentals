@@ -56,7 +56,7 @@ examples below for the appropriate formatting.
 
 
 
-### Problem 3.               
+## Problem 3.Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
 Miles to Kilometers
 
 Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
@@ -79,7 +79,7 @@ mile == 1.60934 kilometers**
 
  
 
-** **
+**Â **
 
  
 
@@ -91,7 +91,7 @@ mile == 1.60934 kilometers**
 
  
 
-** **
+**Â **
 
  
 
