@@ -29,7 +29,6 @@ examples below for the appropriate formatting.
 123       
 22
 
-#
 
 
 ## Problem 3.               
