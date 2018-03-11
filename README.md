@@ -1,7 +1,7 @@
 # programming-fundamentals
 Programming Fundamentals Repository
 
-### Problem 1.                 
+## Problem 1.                 
 Debit Card Number
 
 Write a program, which receives **4 integers** on the
@@ -54,6 +54,7 @@ examples below for the appropriate formatting.
 
 0321 0123 0022
 
+#
 
 
 ## Problem 3.               
