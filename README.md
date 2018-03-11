@@ -1,45 +1,51 @@
 # programming-fundamentals
 Programming Fundamentals Repository
 
-1. Debit Card Number  
+## Problem 1.                 
+Debit Card Number
 
-Write a program, which receives 4integers on the console and prints them in 4-digit debit card format. See the examples below for the appropriate formatting. 
+Write a program, which receives **4****integers** on the
+console and **prints them** in **4-digit debit card format**. See the
+examples below for the appropriate formatting.
 
-Examples 
+#### Examples
 
  
 
-Input/Output
- 
-12
+**Input**     **Output**
+12          
 
 433
 
-1
+1              0433 0001 5331
 
 5331
 
-0012 0433 0001 5331 
+0012
+
+**Input**     **Output**
 
 9182
 
 4221
 
-12
+12            4221 0012 0003
 
 3
 
-9182 4221 0012 0003 
+9182
 
-812 
+**Input**     **Output**
 
-321 
+812
 
-123 
+321
+
+123           0321 0123 0022
 
 22
 
-0812 0321 0123 0022 
+0812
 
 
 
