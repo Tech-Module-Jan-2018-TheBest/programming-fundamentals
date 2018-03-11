@@ -44,61 +44,24 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-60
-
- 
-
-96.56
-
- 
-
-1
-
- 
-
-1.61
-
- 
-
-52.1113
-
- 
-
-83.86
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Input</th>
+    <th class="tg-031e">Output</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">60</td>
+    <td class="tg-031e">96.56</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">1</td>
+    <td class="tg-031e">1.61</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">52.1113</td>
+    <td class="tg-031e">83.86</td>
+  </tr>
+</table>
 
 Problem 4.Beverage Labels
 
