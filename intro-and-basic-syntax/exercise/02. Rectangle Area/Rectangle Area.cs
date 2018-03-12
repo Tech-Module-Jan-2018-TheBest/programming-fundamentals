@@ -6,7 +6,7 @@ namespace _02._Rectangle_Area
     {
         static void Main(string[] args)
         {
-            //In the next two lines, we recieve from the Console width and height of a rectangle;
+            //In the next two lines, we recieve from the Console width and height of a rectangle as double;
             double a = double.Parse(Console.ReadLine());
             double b = double.Parse(Console.ReadLine());
 
