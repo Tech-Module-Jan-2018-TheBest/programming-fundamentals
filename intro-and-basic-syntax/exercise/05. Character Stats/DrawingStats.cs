@@ -6,21 +6,21 @@ namespace DrawingStats
     {
         static void Main(string[] args)
         {
-            String name = Console.ReadLine();
-            int currHealth = int.Parse(Console.ReadLine());
-            int maxHealth = int.Parse(Console.ReadLine());
-            int currEnergy = int.Parse(Console.ReadLine());
-            int maxEnergy = int.Parse(Console.ReadLine());
+            String championName = Console.ReadLine();
+            int totalHealth = int.Parse(Console.ReadLine());
+            int fullHealth = int.Parse(Console.ReadLine());
+            int totalEnergy = int.Parse(Console.ReadLine());
+            int fullEnergy = int.Parse(Console.ReadLine());
 
-            string healthAsTxt = new string('|', currHealth);
-            string healthMissing = new string('.', maxHealth - currHealth);
+            string remainingHealth = new string('|', totalHealth);
+            string missingHealth = new string('.', fullHealth - totalHealth);
 
-            string eneryAsTxt = new string('|', currEnergy);
-            string eneryMissing = new string('.', maxEnergy-currEnergy);
+            string remainingEnergy = new string('|', totalEnergy);
+            string missingEnergy = new string('.', fullEnergy-totalEnergy);
 
-            Console.WriteLine("Name: {0}",name);
-            Console.WriteLine("Health: |{0}{1}|",healthAsTxt,healthMissing);
-            Console.WriteLine("Energy: |{0}{1}|",eneryAsTxt,eneryMissing);
+            Console.WriteLine("Name: {0}",championName);
+            Console.WriteLine("Health: |{0}{1}|",remainingHealth,missingHealth);
+            Console.WriteLine("Energy: |{0}{1}|",leftedEnergy,missingEnergy);
 
         }
     }
