@@ -58,10 +58,7 @@ Examples
 ## Problem 3.               
 Miles to Kilometers
 
-Write a program, which **converts****miles** to **kilometers**. **Format** the output to the **2
-
-nd
-decimal place**.
+Write a program, which **converts miles** to **kilometers**. **Format** the output to the 2nd decimal place**.
 
 Note: **1
 mile == 1.60934 kilometers**
@@ -102,3 +99,39 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 | **Input** | **Output** |
 | --- | --- |
 | Nuka-Cola Quantum350600140 | 350ml Nuka-Cola Quantum:2100kcal, 490g sugars |
+
+## Problem 5.Character Stats
+
+Write a program, which **displays information** about a video game character. You will receive
+their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their
+respective **max** values). Print them in the format as per the examples.
+
+### Examples
+
+<table class="tg">
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Mayro<br>5<br>10<br>9<br>10</td>
+    <td>Name: Mayro<br>Health: ||||||.....|<br>Energy: ||||||||||.|</td>
+  </tr>
+  <tr>
+    <td>Loogi<br>8<br>20<br>2<br>14</td>
+    <td>Name: Loogi<br>Health: |||||||||............|<br>Energy: |||............|</td>
+  </tr>
+   <tr>
+    <td>Bauser<br>10<br>10<br>10<br>10</td>
+    <td>Name: Bauser<br>Health: ||||||||||||<br>Energy: ||||||||||||</td>
+  </tr>
+  <tr>
+    <td>Toad<br>0<br>5<br>0<br>10</td>
+    <td>Name: Toad<br>Health: |.....|<br>Energy: |..........|</td>
+  </tr> 
+</table>
+
+#### Hints
+
+·        
+You can print a character **multiple** times, using new string(character, count).
