@@ -6,12 +6,12 @@ namespace Problem_1.Debit_Card_Number
     {
         static void Main(string[] args)
         {
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
-            int num3 = int.Parse(Console.ReadLine());
-            int num4 = int.Parse(Console.ReadLine());
+            int number1 = int.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
+            int number3 = int.Parse(Console.ReadLine());
+            int number4 = int.Parse(Console.ReadLine());
 
-            Console.Write($"{num1:d4} {num2:d4} {num3:d4} {num4:d4}");
+            Console.Write($"{number1:d4} {number2:d4} {number3:d4} {number4:d4}");
         }
     }
 }
