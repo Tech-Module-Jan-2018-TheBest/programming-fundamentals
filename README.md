@@ -98,19 +98,19 @@ respective **max** values). Print them in the format as per the examples.
 
 | Input                                         | Output                                             |
 | --------------------------------------------- |--------------------------------------------------|
-| Mayro<br/>5<br/>10<br/>9<br/>10               |Name: Mayro<br/>Health: \|\|\|\|\|\|.....\|<br/>Energy: \|\|\|\|\|\|\|\|\|\|.\|    |
+| Mayro<br/>5<br/>10<br/>9<br/>10               |<td>Name: Mayro<br>Health: ||||||.....|<br>Energy: ||||||||||.|</td>    |
 
 | Input                                         | Output                                             |
 | --------------------------------------------- |--------------------------------------------------|
-| Bauser<br/>10<br/>10<br/>10<br/>10               |Name: Bauser<br/>Health: \|\|\|\|\|\|\|\|\|\|\|\|<br/>Energy: \|\|\|\|\|\|\|\|\|\|\|\|          |
+| Bauser<br/>10<br/>10<br/>10<br/>10               |<td>Name: Bauser<br>Health: ||||||||||||<br>Energy: ||||||||||||</td>       |
 
 | Input                                         | Output                                             |
 | --------------------------------------------- |--------------------------------------------------|
-| Loogi<br/>8<br/>20<br/>2<br/>14               |Name: Loogi<br/>Health: \|\|\|\|\|\|\|\|\|............\|<br/>Energy: \|\|\|............\|         |
+| Loogi<br/>8<br/>20<br/>2<br/>14               |<td>Name: Loogi<br>Health: |||||||||............|<br>Energy: |||............|</td>      |
 
 | Input                                         | Output                                             |
 | --------------------------------------------- |--------------------------------------------------|
-| Toad<br/>0<br/>5<br/>0<br/>10               |Name: Toad<br/>Health: \|.....\|<br/>Energy: \|..........\|       |
+| Toad<br/>0<br/>5<br/>0<br/>10               | <td>Name: Toad<br>Health: |.....|<br>Energy: |..........|</td>  |
 
 ### Hints
 
