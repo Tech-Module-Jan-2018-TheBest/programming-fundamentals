@@ -77,20 +77,26 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 
 ### Examples
 
-| **Input** | **Output** |
-| --- | --- |
-| Nuka-Cola 
-220
-300
-70 | 220ml Nuka-Cola:660kcal, 154g sugars |
+|    Input            |    Output                                     |
+|---------------------|-----------------------------------------------|
+|    Nuka-Cola        |    220ml Nuka-Cola:   660kcal, 154g sugars    |
+| 220                 |                                               |
+| 300                 |                                               |
+| 70                  |                                               |
 
-| **Input** | **Output** |
-| --- | --- |
-| Ice Cold Nuka-Cola25035065 | 250ml Ice Cold Nuka-Cola:875kcal, 162.5g sugars |
+|    Input            |    Output                                     |
+|---------------------|-----------------------------------------------|
+| Ice Cold Nuka-Cola  |    250ml Ice Cold Nuka-Cola:                  |
+| 250                 |    875kcal, 162.5g sugars                     |
+| 350                 |                                               |
+| 65                  |                                               |
 
-| **Input** | **Output** |
-| --- | --- |
-| Nuka-Cola Quantum350600140 | 350ml Nuka-Cola Quantum:2100kcal, 490g sugars |
+|    Input            |    Output                                     |
+|---------------------|-----------------------------------------------|
+| Nuka-Cola Quantum   | 250ml Nuka-Cola Quantum:                      |
+| 350                 | 2100kcal, 490g sugars                         |
+| 600                 |                                               |
+| 140                 |                                               |
 
 <h3>Problem 5. * Character Stats</h3>
 
