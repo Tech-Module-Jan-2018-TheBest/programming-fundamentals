@@ -25,7 +25,7 @@ namespace DrawingStats
             //On the console we print the wanted output;
             Console.WriteLine("Name: {0}",championName);
             Console.WriteLine("Health: |{0}{1}|",remainingHealth,missingHealth);
-            Console.WriteLine("Energy: |{0}{1}|",leftedEnergy,missingEnergy);
+            Console.WriteLine("Energy: |{0}{1}|", remainingEnergy, missingEnergy);
 
         }
     }
