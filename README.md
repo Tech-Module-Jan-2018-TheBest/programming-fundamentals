@@ -89,6 +89,18 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 | --------------------------------------------- |:--------------------------------------------------:|
 | Nuka-Cola Quantum<br/>350<br/>600<br/>140     |350ml Nuka-Cola Quantum:<br/>2100kcal, 490g sugars  |
 
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Value-One` | Long explanationasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+`Value-Two` | Long explanation
+`etc` | Long explanation
+
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
+
 <h3>Problem 5. * Character Stats</h3>
 
 Write a program, which **displays information** about a video game character. You will receive
