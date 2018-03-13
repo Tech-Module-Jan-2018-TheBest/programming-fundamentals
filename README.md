@@ -76,30 +76,19 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 - Sugar content – **integer** , **suffixed** by &quot; **g**&quot; (e.g. &quot; **30g**&quot;)
 
 ### Examples
-
+<div>
 | Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Nuka-Cola<br/>220<br/>300<br/>70              |220ml Nuka-Cola:<br/>660kcal, 154g sugars           |
- 
+</div>
+ <div>
 | Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Ice Cold Nuka-Cola<br/>250<br/>350<br/>65     |250ml Ice Cold Nuka-Cola:<br/>875kcal, 162.5g sugars|
-
+</div>
 | Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Nuka-Cola Quantum<br/>350<br/>600<br/>140     |350ml Nuka-Cola Quantum:<br/>2100kcal, 490g sugars  |
-
-Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
--------|-------------------
-`Value-One` | Long explanationasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-`Value-Two` | Long explanation
-`etc` | Long explanation
-
-Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
--------|-------------------
-`Value-One` | Long explanation
-`Value-Two` | Long explanation
-`etc` | Long explanation
 
 <h3>Problem 5. * Character Stats</h3>
 
