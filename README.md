@@ -1,7 +1,7 @@
-# programming-fundamentals
-Programming Fundamentals Repository
+<h1>Exercises: C# Intro and Basic Syntax</h1>
+Problems for exercises and homework for the <a href="https://softuni.bg/courses/programming-fundamentals">“Programming Fundamentals Extended” course @ SoftUni.</a>
 
-## Problem 1. Debit Card Number
+<h3>Problem 1. Debit Card Number</h3>
 
 Write a program, which receives **4 integers** on the
 console and **prints them** in **4-digit debit card format**. See the
@@ -28,7 +28,7 @@ examples below for the appropriate formatting.
   </tr>
 </table>
 
-## Problem 2. Rectangle Area
+<h3>Problem 2. Rectangle Area</h3>
 
 Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2<sup>nd</sup> character after the decimal point**.
 
