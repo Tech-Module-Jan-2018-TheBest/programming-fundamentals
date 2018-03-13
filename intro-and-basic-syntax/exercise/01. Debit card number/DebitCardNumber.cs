@@ -14,6 +14,7 @@ namespace Problem_1.Debit_Card_Number
 
             // Here we print them on the console as 4 digits long debit card numbers.
             Console.Write($"{number1:d4} {number2:d4} {number3:d4} {number4:d4}");
+            Console.WriteLine();
         }
     }
 }
