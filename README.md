@@ -62,9 +62,7 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
-| **Input** | **Output** |  | **Input** | **Output** |  | **Input** | **Output** |
-| --- | --- |               | --- | --- |           	| --- | --- |
-| 60 | 96.56 |              | 1 | 1.61 |				| 52.1113 | 83.86 |
+<table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>60</td><td>96.26</td></tr> </table> <table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>1</td><td>1.61</td></tr> </table> <table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>52.1113</td><td>83.86</td></tr> </table>
 
 <h3>Problem 4. Beverage Labels</h3>
 
@@ -76,17 +74,17 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 - Sugar content – **integer** , **suffixed** by &quot; **g**&quot; (e.g. &quot; **30g**&quot;)
 
 ### Examples
-<div>
-| Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
+
+| Input                                         | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Nuka-Cola<br/>220<br/>300<br/>70              |220ml Nuka-Cola:<br/>660kcal, 154g sugars           |
-</div>
- <div>
-| Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
+
+ 
+| Input                                         | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Ice Cold Nuka-Cola<br/>250<br/>350<br/>65     |250ml Ice Cold Nuka-Cola:<br/>875kcal, 162.5g sugars|
-</div>
-| Input &nbsp;&nbsp;&nbsp;&nbsp;                | Output                                             |
+
+| Input                                         | Output                                             |
 | --------------------------------------------- |:--------------------------------------------------:|
 | Nuka-Cola Quantum<br/>350<br/>600<br/>140     |350ml Nuka-Cola Quantum:<br/>2100kcal, 490g sugars  |
 
