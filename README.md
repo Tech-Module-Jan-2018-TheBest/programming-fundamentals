@@ -62,7 +62,7 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
-<table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>60</td><td>96.26</td></tr> </table> <table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>1</td><td>1.61</td></tr> </table> <table> <tr><th>**Input**</th><th>**Output**</th></tr><tr><td>52.1113</td><td>83.86</td></tr> </table>
+<table><table><tr><th>Input</th><th>Output</th></tr><tr><td>60</td><td>96.26</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>1</td><td>1.61</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>52.1113</td><td>83.86</td></tr> </table></table>
 
 <h3>Problem 4. Beverage Labels</h3>
 
