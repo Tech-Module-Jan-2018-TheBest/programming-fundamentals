@@ -1,5 +1,5 @@
-<h1>programming-fundamentals</h1>
-<h3>Programming Fundamentals Repository</h3>
+# programming-fundamentals
+Programming Fundamentals Repository
 
 ## Problem 1. Debit Card Number
 
