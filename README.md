@@ -1,7 +1,7 @@
 <h1>Exercises: C# Intro and Basic Syntax</h1>
 Problems for exercises and homework for the <a href="https://softuni.bg/courses/programming-fundamentals">“Programming Fundamentals Extended” course @ SoftUni.</a>
 
-<h3>Problem 1. Debit Card Number</h3>
+<h2>Problem 1. Debit Card Number</h2>
 
 Write a program, which receives **4 integers** on the
 console and **prints them** in **4-digit debit card format**. See the
@@ -28,7 +28,7 @@ examples below for the appropriate formatting.
   </tr>
 </table>
 
-<h3>Problem 2. Rectangle Area</h3>
+<h2>Problem 2. Rectangle Area</h2>
 
 Write a program, which calculates a **rectangle’s area**, based on its **width** and **height**. The **width** and **height** come as floating point numbers on the console, **formatted to the 2<sup>nd</sup> character after the decimal point**.
 
@@ -53,7 +53,7 @@ Write a program, which calculates a **rectangle’s area**, based on its **width
   </tr>
 </table>
 
-## Problem 3. Miles to Kilometers
+<h2>Problem 3. Miles to Kilometers</h2>
 
 Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2<sup>nd</sup> decimal place**.
 
@@ -74,7 +74,7 @@ mile == 1.60934 kilometers**
 | --- | --- |
 | 52.1113 | 83.86 |
 
-## Problem 4. Beverage Labels
+<h2>Problem 4. Beverage Labels</h2>
 
 Write a program, which reads a food product **name** , **volume** , **energy content**** per 100ml **and** sugar content per 100ml **. Calculate the** energy **and** sugar content **for the** given volume** and print them on the console in the following format:
 
@@ -97,7 +97,7 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 | --- | --- |
 | Nuka-Cola Quantum350600140 | 350ml Nuka-Cola Quantum:2100kcal, 490g sugars |
 
-## Problem 5. Character Stats
+<h2>Problem 5. Character Stats</h2>
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum health**, **current energy** and **maximum energy **on separate lines. The **current** values will **always** be valid (**equal or lower** than their
@@ -128,7 +128,6 @@ respective **max** values). Print them in the format as per the examples.
   </tr> 
 </table>
 
-#### Hints
+### Hints
 
-·        
-You can print a character **multiple** times, using new string(character, count).
+- You can print a character **multiple** times, using **new string(character, count)**.
