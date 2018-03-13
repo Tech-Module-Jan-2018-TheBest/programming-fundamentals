@@ -7,11 +7,11 @@ namespace _02._Rectangle_Area
         static void Main(string[] args)
         {
             //In the next two lines, we recieve from the Console width and height of a rectangle as double;
-            double a = double.Parse(Console.ReadLine());
-            double b = double.Parse(Console.ReadLine());
+            double width = double.Parse(Console.ReadLine());
+            double height = double.Parse(Console.ReadLine());
 
             //We calculate the area of the rectangle;
-            Console.WriteLine($"{a*b:f2}");
+            Console.WriteLine($"{width*height:f2}");
         }
     }
 }
