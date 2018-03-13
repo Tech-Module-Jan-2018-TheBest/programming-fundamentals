@@ -110,7 +110,7 @@ respective **max** values). Print them in the format as per the examples.
 
 | Input                                         | Output                                             |
 | --------------------------------------------- |--------------------------------------------------|
-| Toad<br/>0<br/>5<br/>0<br/>10               | <p>Name: Toad<br>Health: |.....|<br>Energy: |..........|</p>  |
+| Toad<br/>0<br/>5<br/>0<br/>10               | <div>Name: Toad<br>Health: |.....|<br>Energy: |..........|</div>  |
 
 ### Hints
 
