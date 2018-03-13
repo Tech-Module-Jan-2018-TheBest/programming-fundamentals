@@ -96,21 +96,49 @@ respective **max** values). Print them in the format as per the examples.
 
 ### Examples
 
-| Input                                         | Output                                             |
-| --------------------------------------------- |--------------------------------------------------|
-| Mayro<br/>5<br/>10<br/>9<br/>10               |<td>Name: Mayro<br>Health: ||||||.....|<br>Energy: ||||||||||.|</td>    |
+<table class="tg">
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Mayro<br>5<br>10<br>9<br>10</td>
+    <td>Name: Mayro<br>Health: ||||||.....|<br>Energy: ||||||||||.|</td>
+  </tr>
+</table>
 
-| Input                                         | Output                                             |
-| --------------------------------------------- |--------------------------------------------------|
-| Bauser<br/>10<br/>10<br/>10<br/>10               |<td>Name: Bauser<br>Health: ||||||||||||<br>Energy: ||||||||||||</td>       |
+<table class="tg">
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Loogi<br>8<br>20<br>2<br>14</td>
+    <td>Name: Loogi<br>Health: |||||||||............|<br>Energy: |||............|</td>
+  </tr> 
+</table>
 
-| Input                                         | Output                                             |
-| --------------------------------------------- |--------------------------------------------------|
-| Loogi<br/>8<br/>20<br/>2<br/>14               |<td>Name: Loogi<br>Health: |||||||||............|<br>Energy: |||............|</td>      |
+<table class="tg">
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Bauser<br>10<br>10<br>10<br>10</td>
+    <td>Name: Bauser<br>Health: ||||||||||||<br>Energy: ||||||||||||</td>
+  </tr> 
+</table>
 
-| Input                                         | Output                                             |
-| --------------------------------------------- |--------------------------------------------------|
-| Toad<br/>0<br/>5<br/>0<br/>10               | <div>Name: Toad<br>Health: |.....|<br>Energy: |..........|</div>  |
+<table class="tg">
+  <tr>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Toad<br>0<br>5<br>0<br>10</td>
+    <td>Name: Toad<br>Health: |.....|<br>Energy: |..........|</td>
+  </tr> 
+</table>
 
 ### Hints
 
