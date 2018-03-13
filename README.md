@@ -80,9 +80,9 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 | Input         | Output                                    |
 | ------------- |:-----------------------------------------:|
 | Nuka-Cola     | 220ml Nuka-Cola:<br/>660kcal, 154g sugars |
-| 220           |                                           |
-| 300           |                                           |
-| 70            |                                           |
+| 220           |
+| 300           |
+| 70            |
  
 |    Input            |    Output                                     |
 |---------------------|-----------------------------------------------|
