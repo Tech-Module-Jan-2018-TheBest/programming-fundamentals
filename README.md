@@ -62,7 +62,7 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
-<table><table><tr><th>Input</th><th>Output</th></tr><tr><td>60</td><td>96.26</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>1</td><td>1.61</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>52.1113</td><td>83.86</td></tr> </table></table>
+<table><tr><th>Input</th><th>Output</th></tr><tr><td>60</td><td>96.26</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>1</td><td>1.61</td></tr></table><table><tr><th>Input</th><th>Output</th></tr><tr><td>52.1113</td><td>83.86</td></tr> </table>
 
 <h3>Problem 4. Beverage Labels</h3>
 
@@ -96,28 +96,21 @@ respective **max** values). Print them in the format as per the examples.
 
 ### Examples
 
-<table class="tg">
-  <tr>
-    <th>Input</th>
-    <th>Output</th>
-  </tr>
-  <tr>
-    <td>Mayro<br>5<br>10<br>9<br>10</td>
-    <td>Name: Mayro<br>Health: ||||||.....|<br>Energy: ||||||||||.|</td>
-  </tr>
-  <tr>
-    <td>Loogi<br>8<br>20<br>2<br>14</td>
-    <td>Name: Loogi<br>Health: |||||||||............|<br>Energy: |||............|</td>
-  </tr>
-   <tr>
-    <td>Bauser<br>10<br>10<br>10<br>10</td>
-    <td>Name: Bauser<br>Health: ||||||||||||<br>Energy: ||||||||||||</td>
-  </tr>
-  <tr>
-    <td>Toad<br>0<br>5<br>0<br>10</td>
-    <td>Name: Toad<br>Health: |.....|<br>Energy: |..........|</td>
-  </tr> 
-</table>
+| Input                                         | Output                                             |
+| --------------------------------------------- |:--------------------------------------------------:|
+| Mayro<br/>5<br/>10<br/>9<br/>10               |Name: Mayro<br/>Health: \|\|\|\|\|\|.....\|<br/>Energy: \|\|\|\|\|\|\|\|\|\|.\|    |
+
+| Input                                         | Output                                             |
+| --------------------------------------------- |:--------------------------------------------------:|
+| Bauser<br/>10<br/>10<br/>10<br/>10               |Name: Bauser<br/>Health: \|\|\|\|\|\|\|\|\|\|\|\|<br/>Energy: \|\|\|\|\|\|\|\|\|\|\|\|          |
+
+| Input                                         | Output                                             |
+| --------------------------------------------- |:--------------------------------------------------:|
+| Loogi<br/>8<br/>20<br/>2<br/>14               |Name: Loogi<br/>Health: \|\|\|\|\|\|\|\|\|............\|<br/>Energy: \|\|\|............\|         |
+
+| Input                                         | Output                                             |
+| --------------------------------------------- |:--------------------------------------------------:|
+| Toad<br/>0<br/>5<br/>0<br/>10               |Name: Toad<br/>Health: \|.....\|<br/>Energy: \|..........\|       |
 
 ### Hints
 
