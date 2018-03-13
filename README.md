@@ -62,17 +62,9 @@ mile == 1.60934 kilometers**
 
 #### Examples
 
-| **Input** | **Output** |
-| --- | --- |
-| 60 | 96.56 |
-
-| **Input** | **Output** |
-| --- | --- |
-| 1 | 1.61 |
-
-| **Input** | **Output** |
-| --- | --- |
-| 52.1113 | 83.86 |
+| **Input** | **Output** |  | **Input** | **Output** |  | **Input** | **Output** |
+| --- | --- |               | --- | --- |           	| --- | --- |
+| 60 | 96.56 |              | 1 | 1.61 |				| 52.1113 | 83.86 |
 
 <h3>Problem 4. Beverage Labels</h3>
 
@@ -87,7 +79,10 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 
 | **Input** | **Output** |
 | --- | --- |
-| Nuka-Cola22030070 | 220ml Nuka-Cola:660kcal, 154g sugars |
+| Nuka-Cola 
+220
+300
+70 | 220ml Nuka-Cola:660kcal, 154g sugars |
 
 | **Input** | **Output** |
 | --- | --- |
@@ -97,7 +92,7 @@ Write a program, which reads a food product **name** , **volume** , **energy con
 | --- | --- |
 | Nuka-Cola Quantum350600140 | 350ml Nuka-Cola Quantum:2100kcal, 490g sugars |
 
-<h3>Problem 5. Character Stats</h3>
+<h3>Problem 5. * Character Stats</h3>
 
 Write a program, which **displays information** about a video game character. You will receive
 their **name**, **current health**, **maximum health**, **current energy** and **maximum energy** on separate lines. The **current** values will **always** be valid (**equal or lower** than their
